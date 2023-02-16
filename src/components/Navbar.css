@@ -1,0 +1,13 @@
+.searchButton{
+background-color:#FF385C;
+}
+
+.subclass{
+    text-decoration: none;
+    color: #585757;
+    margin: 2%;
+}
+
+.subclass:hover{
+    color: black;
+}

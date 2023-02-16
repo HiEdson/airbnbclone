@@ -1,0 +1,39 @@
+.mainImg {
+    max-height: 50vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.myTable {
+    /* border-radius: 20%;*/
+    font-weight: bold;
+    box-shadow: #FF385C;
+    border-collapse: collapse;
+    width: 100%;
+    /* background-color: #dcf2f3; */
+    background-image: linear-gradient(to top, #e9eeee, #e4eded, #dfecec, #d9ebeb, #d4eaea, #d0eaea, #cdeaeb, #c9eaeb, #c6ebec, #c3edee, #bfeeef, #bceff1);
+}
+
+.myTable td,
+.myTable th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.myTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #FF385C;
+    color: white;
+}
+.imageDiv{
+    max-height: 100%;
+}
+
+.smallImg {
+    /* height: auto; */
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
